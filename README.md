@@ -1,2 +1,2 @@
 # Mouse-Management-using-OpenCV
-Check this cool Computer Vision project!
+This repository corresponds to the final proyect of the subject Computer Vision at the University of Málaga,
