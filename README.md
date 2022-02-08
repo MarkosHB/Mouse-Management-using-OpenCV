@@ -8,14 +8,14 @@ In this repository you will find the final project of the Computer Vision subjec
 ## Installation process
 The technology used to implement the programm is a simple Jupyter Notebook file wich containts 
 
-### _Open Computer Vision library_
+#### _Open Computer Vision library_
 Most of the functions used are from the OpenCV library. If not installed already, just copy paste on the console the following.
 ```bash
   pip install opencv-python
 ```
 
-### _Pynput library_
-Our program need to be able to handle the clicks without using the mouse. With that porpose, Pynput provides us a Controller to detect them.
+#### _Pynput library_
+Our program needs to be able to handle the clicks without using the mouse. With that porpose, Pynput provides us a Controller to detect them.
 ```bash
   pip install pynput
 ```
