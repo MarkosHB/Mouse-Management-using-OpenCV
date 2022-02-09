@@ -1,5 +1,7 @@
 # Mouse-Management-using-OpenCV
 In this repository you will find the final project of the Computer Vision subject at the **[University of Málaga](https://www.uma.es/#gsc.tab=0)** fully implemented by the student of Computer Science **[Marcos Hidalgo](https://github.com/MarkosHB)**. 
+- [Presentation](./Presentacion.pdf)
+- [Project Notebook](./ProyectoFinal.ipynb)
 
 <h3 align="center">
  :arrow_down: Take a look at the expected results! :arrow_down:
