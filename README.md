@@ -14,7 +14,7 @@ In this repository you will find the final project of the Computer Vision subjec
 > The project was develop with academic porposes and does not represent a proffesional work so it's not a viable tool to use. Due to imprecisions made during the track of the iris, the program does not respond as expected. Nevertheless, the code used to implemented is compleatly functional and needs to be reinforced with advanced CV techniques that I am unable to develop with my current knowledge.
 
 ## Installation process and project requirements.
-You must have previuslly installed Jupyter Notebook to succesfully run the Python code within it self. Check this **[link](https://docs.jupyter.org/en/latest/install/notebook-classic.html)** to properly install them!  
+You must have previuslly installed Jupyter Notebook to succesfully run the Python code within it self. Check this **[link](https://docs.jupyter.org/en/latest/install/notebook-classic.html)** to properly install them!
 Additionaly, there are some function that have to be imported from external libraries manually:
 
 #### _Open Computer Vision library_
