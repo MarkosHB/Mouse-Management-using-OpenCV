@@ -15,7 +15,7 @@ In this repository you will find the final project of the Computer Vision subjec
 
 ## Installation process and project requirements.
 You must have previuslly installed Jupyter Notebook to succesfully run the Python code within it self. Check this **[link](https://docs.jupyter.org/en/latest/install/notebook-classic.html)** to properly install them!
-Additionaly, there are some function that have to be imported from external libraries manually:
+Additionaly, there are function that have to be imported from external libraries manually:
 
 #### _Open Computer Vision library_
 Most of the functions used are from OpenCV. If not installed already, just copy paste on the console the following.
@@ -24,7 +24,7 @@ Most of the functions used are from OpenCV. If not installed already, just copy 
 ```
 
 #### _Pynput library_
-Our program needs to be able to handle the clicks without using the mouse. With that porpose, Pynput provides us a Controller to detect them.
+Our program needs to be able to handle the clicks without using the mouse. With that porpose, Pynput provides us a Controller to detect them allongside some valuable functions and constanst to represent mouse interactions.
 ```bash
   pip install pynput
 ```
