@@ -1,7 +1,7 @@
 # Mouse-Management-using-OpenCV
 In this repository you will find the final project of the Computer Vision subject at the **[University of Málaga](https://www.uma.es/#gsc.tab=0)** fully implemented by the student of Computer Science **[Marcos Hidalgo](https://github.com/MarkosHB)**. As you will soon discover, our goal is to control the mouse with the eyes by estimating how much the center of the iris has moved between frames of the input video. The project is composed of two main phases which are:
 - A Jupyter Notebook containing the code and corresponding explanations. Check the [Jupyter Notebook](./ProyectoFinal.ipynb) here!
-- The final qualification is obtained after the realization of an exhibition of the project. Check the [presentation](./Presentacion.pdf) slides here!
+- The final qualification is obtained after the realization of an exhibition. Check the [presentation](./Presentacion.pdf) slides here!
 
 <br>
 <h3 align="center">
