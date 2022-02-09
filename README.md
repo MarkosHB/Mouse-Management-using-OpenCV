@@ -18,7 +18,7 @@ You must have previuslly installed Jupyter Notebook to succesfully run the Pytho
 Additionaly, there are some function that have to be imported from external libraries manually:
 
 #### _Open Computer Vision library_
-Most of the functions used are from the OpenCV library. If not installed already, just copy paste on the console the following.
+Most of the functions used are from OpenCV. If not installed already, just copy paste on the console the following.
 ```bash
   pip install opencv-python
 ```
